@@ -21,9 +21,6 @@
                 <version>2.22.2</version>
                 <configuration>
                     <failIfNoTests>true</failIfNoTests>
-                    <includes>
-                        <include>PersonTesting.java</include>
-                    </includes>
                 </configuration>
             </plugin>
         </plugins>
